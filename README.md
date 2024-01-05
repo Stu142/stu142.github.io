@@ -1,9 +1,11 @@
 ---
 title: Welcome
 layout: template
-filename: readme.md
+filename: README.md
 ---
 
 # Welcome to Stu142 design 
 
-support me here
+I enjoy designing functional devices that make things easier or just because. 
+
+join me on my adventure 

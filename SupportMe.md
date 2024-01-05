@@ -8,6 +8,8 @@ filename: SupportMe.md
 Your support enables me to keep sharing my designs and ideas. I appreciate it. 
 
 Please choose your prefered method
+<h1>
 <p align="center">
-## [Paypal](http://paypal.me/Stu142)
+  <a href="http://paypal.me/Stu142">Paypal</a>
 </p>
+</h1>

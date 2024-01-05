@@ -1,6 +1,6 @@
 ---
 title: Support Me
-layout: template
+layout: cayman
 filename: SupportMe.md 
 --- 
 # Thank You

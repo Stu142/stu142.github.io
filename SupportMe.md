@@ -8,5 +8,6 @@ filename: SupportMe.md
 Your support enables me to keep sharing my designs and ideas. I appreciate it. 
 
 Please choose your prefered method
-
+<p align="center">
 ## [Paypal](http://paypal.me/Stu142)
+</p>

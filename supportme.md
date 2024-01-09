@@ -1,7 +1,7 @@
 ---
 title: Support Me
 layout: cayman
-filename: SupportMe.md 
+filename: supportme.md 
 --- 
 # Thank You
 

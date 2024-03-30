@@ -5,9 +5,8 @@ filename: supportme.md
 --- 
 # Thank You
 
-Your support enables me to keep sharing my designs and ideas. I appreciate it. 
+Your support enables me to share more of my designs and ideas with the community. I really appreciate it!! 
 
-Please choose your prefered method
 <h1>
 <p align="center">
   <a href="http://paypal.me/Stu142">Paypal</a>
